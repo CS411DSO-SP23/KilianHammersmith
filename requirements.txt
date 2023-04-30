@@ -1,0 +1,7 @@
+pandas==2.0.0
+pymysql==1.0.3
+dash==2.9.2
+plotly_express==0.4.1
+numpy==1.24.2
+neo4j==5.7.0
+pymongo==4.3.3
